@@ -1,1 +1,6 @@
-create jiannamariel.md
+---
+name: Jianna Mariel Caronan # No longer than 28 characters
+institution: Rutgers Business School 🚩 # no longer than 58 characters
+quote: Well-behaved women rarely make history. # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+github_user: jiannamariel
+---
